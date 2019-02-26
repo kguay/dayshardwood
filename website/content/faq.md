@@ -1,8 +1,8 @@
-+++
+<!-- +++
 [menu.main]
 name = "FAQ"
 weight = 2
-+++
++++ -->
 
 
 # FAQ
