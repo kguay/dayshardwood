@@ -7,6 +7,8 @@ weight = 3
 
 # Price List
 
+*Price and availability subject to change*
+
 ## Commodity Lumber
 
 <div class="row"><div class="col-xs-4"><b>Size</b></div><div class="col-xs-4"><b>Species</b></div><div class="col-xs-4"><b>Retail</b></div></div>
